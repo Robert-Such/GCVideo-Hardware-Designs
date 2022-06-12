@@ -1,5 +1,5 @@
 summary: GCDual (Kitspace test)
 site: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual
 color: purple
-bom: Main_PCB/bom.csv
-gerbers: Main_PCB/gerbers
+bom: Gamecube/GCDual/Main_PCB/bom.csv
+gerbers: Gamecube/GCDual/Main_PCB/gerbers
