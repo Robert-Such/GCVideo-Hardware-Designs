@@ -1,0 +1,28 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BottomSolderMask*
+G04 This File Name:       HDMI_QSB_new.gbs*
+G04 Source File Name:     HDMI_QSB_new.rrb*
+G04 Unique ID:            51c3dc83-d7bb-4e2f-9342-59aa85fb2bb0*
+G04 Generated Date:       Thursday, 10 August 2017 09:01:58*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+G04 Polarity:             Negative. Dark is solderable. Clear space is coating.*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBottomSolderMask*%
+%ADD10C,.1006*%
+%ADD11R,.006X.006*%
+%ADD12R,.007X.007*%
+D10*
+G01X1222Y6539D03*
+X5494D03*
+M02*

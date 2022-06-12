@@ -1,5 +1,19 @@
-summary: GCDual (Kitspace test)
-site: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual
-color: purple
-bom: Gamecube/GCDual/Main_PCB/bom.csv
-gerbers: Gamecube/GCDual/Main_PCB/gerbers
+multi:
+  GCDual_Main_PCB:
+    summary: Main PCB for GCDual
+    site: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual
+    color: purple
+    bom: Gamecube/GCDual/Main_PCB/bom.csv
+    gerbers: Gamecube/GCDual/Main_PCB/gerbers
+  GCDual_HDMI_QSB:
+    summary: HDMI QSB for GCDual
+    site: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual
+    color: purple
+    bom: Gamecube/GCDual/HDMI_QSB/bom.csv
+    gerbers: Gamecube/GCDual/HDMI_QSB/gerbers
+  GCDual_Main_QSB:
+    summary: Main QSB for GCDual
+    site: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual
+    color: purple
+    bom: Gamecube/GCDual/Main_QSB/bom.csv
+    gerbers: Gamecube/GCDual/Main_QSB/gerbers

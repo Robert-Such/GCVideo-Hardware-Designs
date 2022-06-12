@@ -1,0 +1,50 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BoardOutline*
+G04 This File Name:       HDMI_QSB_new.gko*
+G04 Source File Name:     HDMI_QSB_new.rrb*
+G04 Unique ID:            51c3dc83-d7bb-4e2f-9342-59aa85fb2bb0*
+G04 Generated Date:       Thursday, 10 August 2017 09:01:58*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBoardEdge*%
+%ADD10R,.006X.006*%
+%ADD11R,.007X.007*%
+D10*
+G01X1233Y3219D02*
+X1423Y3189D01*
+X1594Y3102D01*
+X1729Y2966D01*
+X1817Y2795D01*
+X1847Y2605D01*
+X1817Y2416D01*
+X1729Y2245D01*
+X1594Y2109D01*
+X1423Y2022D01*
+X1233Y1992D01*
+X1044Y2022D01*
+X873Y2109D01*
+X737Y2245D01*
+X650Y2416D01*
+X620Y2605D01*
+X650Y2795D01*
+X737Y2966D01*
+X873Y3102D01*
+X1044Y3189D01*
+X1233Y3219D01*
+D11*
+X0Y7087D02*
+X8905D01*
+Y0D01*
+X0D01*
+Y7087D01*
+M02*
