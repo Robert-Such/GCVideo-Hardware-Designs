@@ -1,0 +1,32 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BottomSilkscreen*
+G04 This File Name:       GC_DUAL_FINAL_testffc_ADV.gbo*
+G04 Source File Name:     GC_DUAL_FINAL_testffc_ADV.rrb*
+G04 Unique ID:            4e2d7a6f-c949-47f3-acdd-e5fe3011063f*
+G04 Generated Date:       Friday, 30 March 2018 12:58:07*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBottomSilkscreen*%
+%ADD10R,.006X.006*%
+D10*
+G01X443Y13939D02*
+X15627D01*
+X15625Y1067D01*
+X14750D01*
+Y0D01*
+X0D01*
+Y285D01*
+X-2116D01*
+Y11713D01*
+X443Y13939D01*
+M02*

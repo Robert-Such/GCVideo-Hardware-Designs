@@ -1,0 +1,60 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BottomSolderMask*
+G04 This File Name:       GC_DUAL_FINAL_testffc_ADV.gbs*
+G04 Source File Name:     GC_DUAL_FINAL_testffc_ADV.rrb*
+G04 Unique ID:            4e2d7a6f-c949-47f3-acdd-e5fe3011063f*
+G04 Generated Date:       Friday, 30 March 2018 12:58:07*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+G04 Polarity:             Negative. Dark is solderable. Clear space is coating.*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBottomSolderMask*%
+%ADD10C,.0671*%
+%ADD11C,.1498*%
+%ADD12R,.006X.006*%
+%ADD13R,.0553X.0553*%
+%ADD14R,.0651X.0651*%
+D10*
+G01X1998Y4075D03*
+Y5075D03*
+Y6075D03*
+Y7075D03*
+Y9063D03*
+X2003Y8075D03*
+D11*
+X3837Y7784D03*
+D13*
+X3489Y6D03*
+X4079Y9D03*
+X4668Y-13D03*
+X5258Y9D03*
+X5851Y-13D03*
+X6441Y9D03*
+X7029Y6D03*
+X7619Y9D03*
+X8212Y2D03*
+X8802Y5D03*
+X9981D03*
+X10573Y9D03*
+X11163Y5D03*
+X11752Y2D03*
+X12342Y5D03*
+X12936Y7D03*
+X1718Y6D03*
+X1127D03*
+X537D03*
+X2899D03*
+X2308D03*
+D14*
+X6742Y13941D03*
+M02*
